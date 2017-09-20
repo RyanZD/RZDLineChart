@@ -13,11 +13,11 @@
 		3D2C65E61F7242F800690535 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D2C65E41F7242F800690535 /* Main.storyboard */; };
 		3D2C65E81F7242F800690535 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3D2C65E71F7242F800690535 /* Assets.xcassets */; };
 		3D2C65EB1F7242F800690535 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D2C65E91F7242F800690535 /* LaunchScreen.storyboard */; };
-		3D2C65FE1F7243A200690535 /* RZDLineChart.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D2C65F41F7243A200690535 /* RZDLineChart.m */; };
-		3D2C65FF1F7243A200690535 /* RZDLineChartBase.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D2C65F61F7243A200690535 /* RZDLineChartBase.m */; };
-		3D2C66001F7243A200690535 /* RZDLineChartCover.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D2C65F91F7243A200690535 /* RZDLineChartCover.m */; };
-		3D2C66011F7243A200690535 /* RZDLineChartModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D2C65FB1F7243A200690535 /* RZDLineChartModel.m */; };
-		3D2C66021F7243A200690535 /* UIColor+RZD.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D2C65FD1F7243A200690535 /* UIColor+RZD.m */; };
+		3D2C66201F726AA700690535 /* RZDLineChart.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D2C66161F726AA700690535 /* RZDLineChart.m */; };
+		3D2C66211F726AA700690535 /* RZDLineChartBase.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D2C66181F726AA700690535 /* RZDLineChartBase.m */; };
+		3D2C66221F726AA700690535 /* RZDLineChartCover.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D2C661B1F726AA700690535 /* RZDLineChartCover.m */; };
+		3D2C66231F726AA700690535 /* RZDLineChartModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D2C661D1F726AA700690535 /* RZDLineChartModel.m */; };
+		3D2C66241F726AA700690535 /* UIColor+RZD.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D2C661F1F726AA700690535 /* UIColor+RZD.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,17 +31,17 @@
 		3D2C65E71F7242F800690535 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3D2C65EA1F7242F800690535 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3D2C65EC1F7242F800690535 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		3D2C65F31F7243A200690535 /* RZDLineChart.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RZDLineChart.h; sourceTree = "<group>"; };
-		3D2C65F41F7243A200690535 /* RZDLineChart.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RZDLineChart.m; sourceTree = "<group>"; };
-		3D2C65F51F7243A200690535 /* RZDLineChartBase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RZDLineChartBase.h; sourceTree = "<group>"; };
-		3D2C65F61F7243A200690535 /* RZDLineChartBase.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RZDLineChartBase.m; sourceTree = "<group>"; };
-		3D2C65F71F7243A200690535 /* RZDLineChartConfig.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RZDLineChartConfig.h; sourceTree = "<group>"; };
-		3D2C65F81F7243A200690535 /* RZDLineChartCover.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RZDLineChartCover.h; sourceTree = "<group>"; };
-		3D2C65F91F7243A200690535 /* RZDLineChartCover.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RZDLineChartCover.m; sourceTree = "<group>"; };
-		3D2C65FA1F7243A200690535 /* RZDLineChartModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RZDLineChartModel.h; sourceTree = "<group>"; };
-		3D2C65FB1F7243A200690535 /* RZDLineChartModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RZDLineChartModel.m; sourceTree = "<group>"; };
-		3D2C65FC1F7243A200690535 /* UIColor+RZD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIColor+RZD.h"; sourceTree = "<group>"; };
-		3D2C65FD1F7243A200690535 /* UIColor+RZD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+RZD.m"; sourceTree = "<group>"; };
+		3D2C66151F726AA700690535 /* RZDLineChart.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RZDLineChart.h; sourceTree = "<group>"; };
+		3D2C66161F726AA700690535 /* RZDLineChart.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RZDLineChart.m; sourceTree = "<group>"; };
+		3D2C66171F726AA700690535 /* RZDLineChartBase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RZDLineChartBase.h; sourceTree = "<group>"; };
+		3D2C66181F726AA700690535 /* RZDLineChartBase.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RZDLineChartBase.m; sourceTree = "<group>"; };
+		3D2C66191F726AA700690535 /* RZDLineChartConfig.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RZDLineChartConfig.h; sourceTree = "<group>"; };
+		3D2C661A1F726AA700690535 /* RZDLineChartCover.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RZDLineChartCover.h; sourceTree = "<group>"; };
+		3D2C661B1F726AA700690535 /* RZDLineChartCover.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RZDLineChartCover.m; sourceTree = "<group>"; };
+		3D2C661C1F726AA700690535 /* RZDLineChartModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RZDLineChartModel.h; sourceTree = "<group>"; };
+		3D2C661D1F726AA700690535 /* RZDLineChartModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RZDLineChartModel.m; sourceTree = "<group>"; };
+		3D2C661E1F726AA700690535 /* UIColor+RZD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIColor+RZD.h"; sourceTree = "<group>"; };
+		3D2C661F1F726AA700690535 /* UIColor+RZD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+RZD.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,7 +74,7 @@
 		3D2C65DA1F7242F800690535 /* RZDLineChartDemo */ = {
 			isa = PBXGroup;
 			children = (
-				3D2C65F21F7243A200690535 /* ZRLineChart */,
+				3D2C66141F726AA700690535 /* RZDLineChart */,
 				3D2C65DE1F7242F800690535 /* AppDelegate.h */,
 				3D2C65DF1F7242F800690535 /* AppDelegate.m */,
 				3D2C65E11F7242F800690535 /* ViewController.h */,
@@ -96,22 +96,22 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		3D2C65F21F7243A200690535 /* ZRLineChart */ = {
+		3D2C66141F726AA700690535 /* RZDLineChart */ = {
 			isa = PBXGroup;
 			children = (
-				3D2C65F31F7243A200690535 /* RZDLineChart.h */,
-				3D2C65F41F7243A200690535 /* RZDLineChart.m */,
-				3D2C65F51F7243A200690535 /* RZDLineChartBase.h */,
-				3D2C65F61F7243A200690535 /* RZDLineChartBase.m */,
-				3D2C65F71F7243A200690535 /* RZDLineChartConfig.h */,
-				3D2C65F81F7243A200690535 /* RZDLineChartCover.h */,
-				3D2C65F91F7243A200690535 /* RZDLineChartCover.m */,
-				3D2C65FA1F7243A200690535 /* RZDLineChartModel.h */,
-				3D2C65FB1F7243A200690535 /* RZDLineChartModel.m */,
-				3D2C65FC1F7243A200690535 /* UIColor+RZD.h */,
-				3D2C65FD1F7243A200690535 /* UIColor+RZD.m */,
+				3D2C66151F726AA700690535 /* RZDLineChart.h */,
+				3D2C66161F726AA700690535 /* RZDLineChart.m */,
+				3D2C66171F726AA700690535 /* RZDLineChartBase.h */,
+				3D2C66181F726AA700690535 /* RZDLineChartBase.m */,
+				3D2C66191F726AA700690535 /* RZDLineChartConfig.h */,
+				3D2C661A1F726AA700690535 /* RZDLineChartCover.h */,
+				3D2C661B1F726AA700690535 /* RZDLineChartCover.m */,
+				3D2C661C1F726AA700690535 /* RZDLineChartModel.h */,
+				3D2C661D1F726AA700690535 /* RZDLineChartModel.m */,
+				3D2C661E1F726AA700690535 /* UIColor+RZD.h */,
+				3D2C661F1F726AA700690535 /* UIColor+RZD.m */,
 			);
-			path = ZRLineChart;
+			path = RZDLineChart;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -185,14 +185,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3D2C66021F7243A200690535 /* UIColor+RZD.m in Sources */,
-				3D2C66011F7243A200690535 /* RZDLineChartModel.m in Sources */,
+				3D2C66241F726AA700690535 /* UIColor+RZD.m in Sources */,
+				3D2C66231F726AA700690535 /* RZDLineChartModel.m in Sources */,
 				3D2C65E31F7242F800690535 /* ViewController.m in Sources */,
-				3D2C66001F7243A200690535 /* RZDLineChartCover.m in Sources */,
-				3D2C65FF1F7243A200690535 /* RZDLineChartBase.m in Sources */,
+				3D2C66221F726AA700690535 /* RZDLineChartCover.m in Sources */,
+				3D2C66211F726AA700690535 /* RZDLineChartBase.m in Sources */,
 				3D2C65E01F7242F800690535 /* AppDelegate.m in Sources */,
 				3D2C65DD1F7242F800690535 /* main.m in Sources */,
-				3D2C65FE1F7243A200690535 /* RZDLineChart.m in Sources */,
+				3D2C66201F726AA700690535 /* RZDLineChart.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -349,6 +349,7 @@
 				3D2C65F11F7242F800690535 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
