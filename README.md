@@ -26,3 +26,5 @@ RZDLineChart *chart = [[RZDLineChart alloc]initWithFrame:CGRectMake(0,100, [UISc
 
 最后效果是这样的 
 
+![Alt text](https://github.com/RyanZD/RZDLineChart/raw/master/Screenshots/show.png)
+
